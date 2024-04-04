@@ -13,3 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+  ### About Me
+
+  i am a self-taught developer with ocee +1year experience with expertise in. HTML, CSS , JAVASCRIPT, RAECT, NEXT.js
