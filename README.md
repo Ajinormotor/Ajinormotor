@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**Ajinormotor/Ajinormotor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<b>Teitei Wisdom-Frontend Developer </b>
 
 Here are some ideas to get you started:
 
