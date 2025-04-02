@@ -20,7 +20,7 @@ RESTful APIs, GraphQL
 
 CI/CD & Deployment (Vercel, Netlify)
 
-🌟 Frontend
+🌟 Backend
 
 Frameworks : Nodejs, Laravel
 
