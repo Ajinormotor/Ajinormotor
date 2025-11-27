@@ -1,7 +1,7 @@
 👋 Hi, I'm Wisdom! 🚀
 
-🌐 Frontend Engineer | Freelancer
-I am a passionate Frontend Developer focused on creating visually appealing, high-performance, and user-friendly web applications. I specialize in building scalable and interactive UI experiences using modern technologies.
+🌐 Software Engineer | Freelancer
+I am a passionate Fullstack Developer focused on creating visually appealing, high-performance, and user-friendly web applications. I specialize in building scalable and interactive UI experiences using modern technologies.
 
 🚀 Tech Stack
 🌟 Frontend
